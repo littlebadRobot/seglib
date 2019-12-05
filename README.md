@@ -1,1 +1,0 @@
-This is a library about semantic segmentation
